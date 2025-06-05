@@ -1,0 +1,12 @@
+
+body {
+  font-family: 'Georgia', serif;
+  background-color: #1a1a1a;
+  color: #f4f4f4;
+  text-align: center;
+  padding: 2rem;
+}
+.cathedral img, .desk img {
+  max-width: 90%;
+  margin: 2rem 0;
+}
